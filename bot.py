@@ -5,9 +5,9 @@ from telebot.asyncio_filters import *
 from telebot.async_telebot import AsyncTeleBot
 from telebot.asyncio_storage import StateMemoryStorage
 
-owner = [6243471475,6751864277]
+owner = [6243471475,6766253056]
 whitelist = {}
-datetime_format = f"%H:%M:%S %d-%m-%Y"
+datetime_format = f"%H:%M:%S 6948368900:AAElseNx9zbGKCe3es4YUpFQ_37G0y1UL2Ed-%m-%Y"
 wib = timezone('Asia/Jakarta')
 bot_token = '6948368900:AAElseNx9zbGKCe3es4YUpFQ_37G0y1UL2E'
 bot = AsyncTeleBot(bot_token, parse_mode='HTML', state_storage=StateMemoryStorage())
