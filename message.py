@@ -69,14 +69,14 @@ Selamat menggunakan ~!
 """
 
 txt_start = """
-<b>Selamat datang di Bot Convert VCF! 🎉</b>
+<b>Bot Convert 🏷</b>
 
-<b>🔹 FITUR:</b>
-/convert - Mengonversi file dari format TXT ke VCF.
-/pecahvcf - Membagi satu file VCF menjadi beberapa file.
-/pecahtxt - Membagi satu file TXT menjadi beberapa file.
-/convertxlsx - Mengonversi file dari format XLSX ke TXT
-/convertvcf - Mengonversi file dari format XLSX ke VCF
+<b> FITUR:</b>
+/convert 💎 Convert file dari format TXT ke VCF
+/pecahvcf 💎 Membagi satu file VCF menjadi beberapa file
+/pecahtxt 💎 Membagi satu file TXT menjadi beberapa file
+/convertxlsx 💎 Convert file dari format XLSX ke TXT
+/convertvcf 💎 Convert file dari format XLSX ke VCF
 """
 
 txt_vip = """
@@ -87,5 +87,14 @@ Tambahkan pengguna untuk dapat mengakses Bot ini dengan langkah berikut:
 """
 
 txt_pesan_vip = """
-JANGAN LUPA NGENTOD DULU YA SAYANG KUSUS TOBRUT
+Maaf, fitur ini adalah fitur yang hanya bisa diakses oleh member VIP.
+Untuk membeli akses VIP, silahkan hubungi owner: RAHASIA
+INISIAL P 
+
+Harga akses bot:
+1. 1 hari 50k
+2. 3 hari 120k
+3. 7 hari 200K
+4.14 hari 400k
+4. 30 hari 700K
 """
