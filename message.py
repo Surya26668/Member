@@ -87,13 +87,5 @@ Tambahkan pengguna untuk dapat mengakses Bot ini dengan langkah berikut:
 """
 
 txt_pesan_vip = """
-Maaf, fitur ini adalah fitur yang hanya bisa diakses oleh member VIP.
-
-Untuk membeli akses VIP, silahkan hubungi owner: @SuryaK3
-
-Harga akses bot:
-1. 1 hari 50k
-2. 3 hari 125k
-3. 7 hari 250k
-4. 30 hari 1jt
+JANGAN LUPA NGENTOD DULU YA SAYANG KUSUS TOBRUT
 """
