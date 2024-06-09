@@ -9,7 +9,7 @@ owner = [6243471475,6751864277]
 whitelist = {}
 datetime_format = f"%H:%M:%S %d-%m-%Y"
 wib = timezone('Asia/Jakarta')
-bot_token = '6946010945:AAHKgdRw27gy8guQsLiS7V00g6v8BaIcTPY'
+bot_token = '6948368900:AAElseNx9zbGKCe3es4YUpFQ_37G0y1UL2E'
 bot = AsyncTeleBot(bot_token, parse_mode='HTML', state_storage=StateMemoryStorage())
 
 bot.add_custom_filter(StateFilter(bot))
