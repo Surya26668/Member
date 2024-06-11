@@ -93,8 +93,5 @@ INISIAL P
 
 Harga akses bot:
 1. 1 hari 50k
-2. 3 hari 120k
-3. 7 hari 200K
-4.14 hari 400k
-4. 30 hari 700K
+2. permanen 1jt
 """
