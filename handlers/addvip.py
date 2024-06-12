@@ -9,8 +9,7 @@ from state import VipState
 @bot.message_handler(commands='addvip')
 async def addvip_command(message: Message):
   try:
-    if trs di addvip.py 
-         message.from_user.id != owner
+    if message.from_user.id != owner
       return
     
     await bot.delete_state(message.from_user.id, message.chat.id)
