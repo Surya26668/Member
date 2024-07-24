@@ -5,11 +5,11 @@ from telebot.asyncio_filters import *
 from telebot.async_telebot import AsyncTeleBot
 from telebot.asyncio_storage import StateMemoryStorage
 
-owner = [6766253056]
+owner = [masukan id kamu]
 whitelist = {}
 datetime_format = f"%H:%M:%S %d-%m-%Y"
 wib = timezone('Asia/Jakarta')
-bot_token = '6948368900:AAElseNx9zbGKCe3es4YUpFQ_37G0y1UL2E'
+bot_token = 'isi token bot'
 bot = AsyncTeleBot(bot_token, parse_mode='HTML', state_storage=StateMemoryStorage())
 
 bot.add_custom_filter(StateFilter(bot))
