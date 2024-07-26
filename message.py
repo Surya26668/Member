@@ -74,9 +74,9 @@ txt_start = """
 <b>Bot Convert 🏷</b>
 
 <b> FITUR:</b>
-/convert 💎 Convert file dari format TXT ke VCF
-/pecahvcf 💎 Membagi satu file VCF menjadi beberapa file
-/pecahtxt 💎 Membagi satu file TXT menjadi beberapa file
+/convert - Convert file dari TXT ke VCF
+/pecahvcf - Membagi satu file VCF menjadi beberapa file
+/pecahtxt - Membagi satu file TXT menjadi beberapa file
 """
 
 txt_vip = """
@@ -88,14 +88,5 @@ Tambahkan pengguna untuk dapat mengakses Bot ini dengan langkah berikut:
 
 txt_pesan_vip = """
 Maaf, fitur ini adalah fitur yang hanya bisa diakses oleh member VIP.
-Untuk membeli akses VIP, silahkan hubungi owner: RAHASIA
-INISIAL P 
-
-Harga akses bot:
-1. 1 hari 50k
-3. 3 hari 125k
-4. 7 hari 200k
-5.14 hari 400k
-6.1 bulan 700k
-6.1 tahun 1,5jt
+Untuk membeli akses VIP
 """
